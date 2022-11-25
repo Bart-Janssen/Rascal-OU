@@ -7,10 +7,8 @@
 /out
 /out-tsc
 /target
-/DesignPatterns/out
-/JabberPoint/target
 
-.jar
+*.jar
 .project
 .classpath
 .c9/
